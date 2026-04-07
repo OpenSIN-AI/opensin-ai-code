@@ -1,11 +1,12 @@
-# OpenSIN-AI Code — The Ultimate AI Agent Development Platform
+# OpenSIN-AI Code — Python Agent Development Platform
 
-[![Documentation](https://img.shields.io/badge/docs-docs.opensin.ai-blue)](https://docs.opensin.ai)
+[![Documentation](https://img.shields.io/badge/docs-docs.opensin.ai-blue)](https://docs.opensin.ai/docs/guide/opensin-ai-code)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
-[![Tests](https://img.shields.io/badge/tests-2138%20passing-green.svg)](tests/)
 
-OpenSIN-AI Code is a comprehensive AI agent development platform that enables you to build, deploy, and manage autonomous AI agent systems at scale. Built from the ground up for multi-agent collaboration with our A2A (Agent-to-Agent) protocol.
+OpenSIN-AI Code ist die Python-basierte Agent Development Platform der OpenSIN-AI Organisation. Metadata-driven Architektur für schnellen Prototyping und Porting.
+
+> **Teil des OpenSIN-AI Ökosystems:** [175 Repos | 17 Teams | 92 Worker | 7 MCP Server](https://github.com/OpenSIN-AI/OpenSIN-overview)
 
 ## 🚀 Quick Start
 
@@ -80,6 +81,20 @@ Secure code execution with filesystem/network rules and git escape prevention.
 
 ### Memory System
 File-based memory with index and topic files, SIN.md auto-discovery, and session memory extraction.
+
+## 🔗 OpenSIN-AI Ökosystem
+
+OpenSIN-AI Code ist Teil des umfassendsten AI Agent Systems der Welt:
+
+| Komponente | Repo | Zweck |
+|------------|------|-------|
+| **OpenSIN Core** | [OpenSIN-AI/OpenSIN](https://github.com/OpenSIN-AI/OpenSIN) | Free Core Engine (Python, 310+ Pakete) |
+| **OpenSIN Backend** | [OpenSIN-AI/OpenSIN-backend](https://github.com/OpenSIN-AI/OpenSIN-backend) | A2A Fleet Control Plane (SIN Solver) |
+| **OpenSIN-Code** | [OpenSIN-AI/OpenSIN-Code](https://github.com/OpenSIN-AI/OpenSIN-Code) | Autonomes CLI + SDK |
+| **opensin-ai-cli** | [OpenSIN-AI/opensin-ai-cli](https://github.com/OpenSIN-AI/opensin-ai-cli) | AI Coding Assistant in Rust |
+| **opensin-ai-platform** | [OpenSIN-AI/opensin-ai-platform](https://github.com/OpenSIN-AI/opensin-ai-platform) | Plugin Ecosystem & GitHub Automation |
+| **17 Teams** | [OpenSIN-overview](https://github.com/OpenSIN-AI/OpenSIN-overview) | 92 Worker Agents |
+| **7 MCP Server** | [OpenSIN-overview](https://github.com/OpenSIN-AI/OpenSIN-overview) | Chrome Extension, Computer Use, Memory, Auth |
 
 ## 📚 Documentation
 

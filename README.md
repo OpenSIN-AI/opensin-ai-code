@@ -96,6 +96,12 @@ OpenSIN-AI Code ist Teil des umfassendsten AI Agent Systems der Welt:
 | **17 Teams** | [OpenSIN-overview](https://github.com/OpenSIN-AI/OpenSIN-overview) | 92 Worker Agents |
 | **7 MCP Server** | [OpenSIN-overview](https://github.com/OpenSIN-AI/OpenSIN-overview) | Chrome Extension, Computer Use, Memory, Auth |
 
+## 🧭 OpenSIN-AI Agent Roadmap
+
+- Feature spec: [OpenSIN-overview/docs/opensin-ai-agent-feature-spec.md](https://github.com/OpenSIN-AI/OpenSIN-overview/blob/main/docs/opensin-ai-agent-feature-spec.md)
+- Comparison guide: [OpenSIN-documentation/docs/guide/opensin-ai-agent-features.md](https://github.com/OpenSIN-AI/OpenSIN-documentation/blob/main/docs/guide/opensin-ai-agent-features.md)
+- This repo is the Python agent development surface aligned with the OpenSIN-AI Agent roadmap.
+
 ## 📚 Documentation
 
 Full documentation is available at [docs.opensin.ai](https://docs.opensin.ai), with comprehensive coverage of:

@@ -1,3 +1,34 @@
+# opensin-ai-code — MOVED
+
+> **This repository has been consolidated into [OpenSIN-AI/OpenSIN](https://github.com/OpenSIN-AI/OpenSIN) and is scheduled for archival.**
+
+## New location
+
+**https://github.com/OpenSIN-AI/OpenSIN/tree/main/opensin_agent_platform**
+
+## Why
+
+This repo duplicated ground already owned by the canonical Python packages in `OpenSIN-AI/OpenSIN` — `opensin_core`, `opensin_cli`, `opensin_api`, `opensin_sdk`. It also advertised `pip install opensin-ai-code` but shipped no `pyproject.toml`, so the install path never actually worked.
+
+The full source tree was moved into `OpenSIN/opensin_agent_platform/` so nothing is lost. A follow-up rationalization PR will diff the overlap against `opensin_core` and port any genuinely useful logic.
+
+Full report: [OpenSIN-overview/docs/CONSOLIDATION-2026-04.md](https://github.com/OpenSIN-AI/OpenSIN-overview/blob/main/docs/CONSOLIDATION-2026-04.md)
+
+## What you should do
+
+- **Cloning?** Clone `OpenSIN-AI/OpenSIN`.
+- **Installing?** The previously-advertised `pip install opensin-ai-code` never worked. Use the canonical packages under `OpenSIN/`.
+- **Had an issue or PR?** Refile against `OpenSIN-AI/OpenSIN`.
+
+## History preservation
+
+This repo stays on GitHub in **archived** (read-only) state. All commits remain searchable here.
+
+---
+
+<details>
+<summary>Original README (preserved)</summary>
+
 # OpenSIN-AI Code — Python Agent Development Platform
 
 [![Documentation](https://img.shields.io/badge/docs-docs.opensin.ai-blue)](https://docs.opensin.ai/docs/guide/opensin-ai-code)
@@ -174,3 +205,5 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ---
 Built with ❤️ by the OpenSIN-AI Team
+
+</details>
